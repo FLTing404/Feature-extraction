@@ -1,2 +1,2 @@
-# Knitted R Markdown 报告（由 elsa_data.Rmd 生成）
-script/elsa_data.html
+# 所有 Knit 生成的 HTML 报告
+*.html
